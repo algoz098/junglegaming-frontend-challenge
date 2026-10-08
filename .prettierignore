@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-ssr
+coverage
+playwright-report
+test-results
+lighthouse-reports
+public/mockServiceWorker.js
+src/routeTree.gen.ts
